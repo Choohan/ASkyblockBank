@@ -17,8 +17,8 @@ Bank.admins - Access to /sbbank admin *
 * **/sbbank admin reset** - Reset online player's bank
 
 ## Required
-* **[https://www.spigotmc.org/resources/askyblock.1220/](ASkyBlock)**
-* **[https://www.spigotmc.org/resources/vault.41918/](Vault)**
+* **[ASkyBlock](https://www.spigotmc.org/resources/askyblock.1220/)**
+* **[Vault](https://www.spigotmc.org/resources/vault.41918/)**
 
 ## OpenSource
 - https://github.com/Choohan/ASkyblockBank
