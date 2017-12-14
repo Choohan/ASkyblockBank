@@ -1,0 +1,7 @@
+name: ASkyblockBank
+main: me.choohan.askyblock.bank.Main
+version: 2.0
+commands:
+   sbbank:
+      description: Blank description.
+      usage: /<command>
