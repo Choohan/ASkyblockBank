@@ -25,6 +25,9 @@ Bank.admins - Access to /sbbank admin *
 ## OpenSource
 - https://github.com/Choohan/ASkyblockBank
 
+## Wiki
+- https://github.com/Choohan/ASkyblockBank/wiki
+
 ## API
 - https://github.com/Choohan/ASkyblockBank/wiki/API
 
