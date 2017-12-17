@@ -15,6 +15,8 @@ Bank.admins - Access to /sbbank admin *
 * **/sbbank admin add** - Add money to online player's island
 * **/sbbank admin take** - Take money from online player's island
 * **/sbbank admin reset** - Reset online player's bank
+* **/sbbank addmember - Grant access to target player (Modifying Balance)
+* **/sbbank remmember - Remove access from target player to Modifyng balance
 
 ## Required
 * **[ASkyBlock](https://www.spigotmc.org/resources/askyblock.1220/)**
